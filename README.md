@@ -2,4 +2,4 @@
 This is my first git Repository...
 <br>
 
-Author- Riya
+Author- Riya Sharma
